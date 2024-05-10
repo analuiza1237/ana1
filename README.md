@@ -1,1 +1,5 @@
-# ana1
+Meu nome é ana luiza
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
